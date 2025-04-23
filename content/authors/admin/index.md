@@ -79,7 +79,8 @@ work:
     date_start: 2024-11-01
     date_end: ""
     summary: |
-      - Designed and delivered interactive Python notebooks demonstrating quantum and classical ML concepts using Scikit-learn, PyTorch, PennyLane, and SciPy.
+      - Engineered hands-on computational exercises demonstrating quantum and classical ML concepts using Python notebooks, Scikit-learn, PyTorch, PennyLane, and SciPy.
+      - Designed and delivered advanced graduate-level curriculum bridging Lie Theory with practical Quantum Computing and Machine Learning applications (Course: [Lie Groups with Applications](https://quantumformalism.academy/lie-groups-with-applications).
       - Developed visualization tools for dynamic simulation of quantum systems using Matplotlib and ipywidgets (e.g., Hamiltonian evolution, SU(4) decomposition, and error quantification).
       - Built prototypes for quantum gate classification and variational circuit optimization leveraging gradient-based learning.
 
