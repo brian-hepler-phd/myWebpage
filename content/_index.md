@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Resume
-        url: Brian_Hepler_Resume_DS.pdf
+        url: /uploads/Brian_Hepler_Resume_DS.pdf
     design:
       css_class: dark
       background:
@@ -32,7 +32,7 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: 'My Research'
       subtitle: ''
       text: |-
         I’m a research mathematician and educator with 13+ years of experience working at the intersection of abstract theory and practical computation. My expertise lies in **relational structures, category theory, and topological methods**, and I specialize in translating these concepts into **efficient data models, algorithms**, and **mathematical infrastructure for machine learning and quantum computing**.
