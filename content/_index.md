@@ -7,7 +7,7 @@ type: landing
 design:
   # Default section spacing
   spacing: "6rem"
-
+---
 sections:
   - block: resume-biography-3
     content:
@@ -107,12 +107,12 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: cta-card
-  content:
-    title: Explore my latest projects
-    text: Take a look at my notebooks and research on GitHub.
-    button:
+    content:
+     title: Explore my latest projects
+      text: Take a look at my notebooks and research on GitHub.
+      button:
       text: View GitHub
       url: https://github.com/brian-hepler-phd
-  design:
-    card:
-      css_class: "bg-primary-700"
+    design:
+      card:
+        css_class: "bg-primary-700"
