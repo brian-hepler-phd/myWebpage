@@ -33,6 +33,13 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?hl=en&user=zwUZP5cAAAAJ&view_op=list_works&gmla=ANZ5fUPG26R_JguFNVrGNnPSReETtAMPURzqitxObdGZcu3YUwGY-1zdxAZz7uL0OUwe8azSlFraz_VV5STLmTM9
 
+summary: |
+  I'm a research mathematician and educator with over a decade of experience bridging abstract mathematics and applied computation. My background is in category theory, geometry, and singularity theory, and I’ve recently focused on translating these tools into the worlds of quantum computing, machine learning, and topological data analysis.
+
+  In both research and teaching, I aim to make complex ideas accessible and useful — whether by designing clean mathematical infrastructure, writing interpretable code, or building hands-on tools for students and researchers.
+
+  You can explore my work in [projects](/project) or browse my [research publications](/publication).
+
 interests:
   - algebraic topology
   - differential equations
@@ -164,11 +171,3 @@ awards:
     summary: |
       Alumni Award for Mathematics. 
 ---
-
-## About Me
-
-I'm a research mathematician and educator with over a decade of experience bridging abstract mathematics and applied computation. My background is in category theory, geometry, and singularity theory, and I’ve recently focused on translating these tools into the worlds of quantum computing, machine learning, and topological data analysis.
-
-In both research and teaching, I aim to make complex ideas accessible and useful — whether by designing clean mathematical infrastructure, writing interpretable code, or building hands-on tools for students and researchers.
-
-You can explore my work in [projects](/project) or browse my [research publications](/publication).
