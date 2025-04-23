@@ -28,8 +28,8 @@ My approach centers on clarity, structure, and creating an environment where stu
 > “Bri is a great teacher, incredibly intelligent, almost always overly passionate about what he’s teaching (like he literally loves math which is terrifying)... Best math teacher I’ve ever had, just hoping he teaches Calc 2.”  
 > — *Math 1251, Spring 2016*
 
-> “Big daddy Bri is the man! ... I can’t not recommend any other single professor more than I can recommend Brian Hepler!”  
+> “Big daddy Bri is the man! If we were lost at sea and our rations were running low, there is not a single other steady hand I would want on the wheel than Brian’s. If we were stuck in the trenches of world war one, fighting off the enemy and rats, the only commander I would trust is Bri Guy. I think it is for these reasons that Brian was so effective at guiding us all through the troubled waters of spring semester 2020. Brian is like the cool professor in the disaster movies who knows whats up, but no one listens to him because he always has chalk on on his pants. I can’t not recommend any other single professor more than I can recommend Brian Hepler!”  
 > — *Math 340, Spring 2020*
 
-> “Brian is hands down my favorite math prof so far. He genuinely wants all of us to succeed and cares A LOT about making math accessible... Awesome dude.”  
+> “Brian is hands down my favorite math prof so far. He genuinely wants all of us to succeed and cares A LOT about making math accessible. If you ask questions and show up, he will go the extra mile for you. Awesome dude.”  
 > — *Math 552, Spring 2022*
