@@ -135,7 +135,7 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-    - title: AMS–Simons Travel Grant
+  - title: AMS–Simons Travel Grant
     date: '2021-04-01'
     awarder: American Mathematical Society and Simons Foundation
     summary: |
