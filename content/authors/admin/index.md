@@ -158,7 +158,7 @@ awards:
     date: '2018-04-01'
     awarder: Northeastern University Mathematics Department
     summary: |
-      For providing excellent serve to the Math Department by teaching a wide range of courses as Instructor of Record, includig MATH 1213, 1231, 1251, and 1342, and for receiving very good student evaluations in these courses. 
+      For providing excellent serve to the Math Department by teaching a wide range of courses as Instructor of Record, including MATH 1213, 1231, 1251, and 1342, and for receiving very good student evaluations in these courses. 
   - title: Robert Brian Massey Fellowship for Mathematics
     url: https://centerofmath.com
     date: '2012-09-01'
