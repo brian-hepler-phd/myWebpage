@@ -135,20 +135,18 @@ skills:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: AMS-Simons Travel Grant
+    - title: AMS–Simons Travel Grant
     date: '2021-04-01'
     awarder: American Mathematical Society and Simons Foundation
     summary: |
-      This proposal focused on a long-standing open problem in singularity theory known as Lê’s Conjecture, which concerns the equisingularity of complex analytic surfaces with one-dimensional singular loci. The conjecture posits that if the topological link of a surface germ V(f) ⊂ ℂ³ is a 3-sphere and the normalization is smooth and bijective, then the germ arises as an equisingular deformation of a plane curve singularity.
+      This proposal focused on a long-standing open problem in singularity theory known as Lê’s Conjecture, which concerns the equisingularity of complex analytic surfaces with one-dimensional singular loci.
 
-     My approach, in collaboration with Laurentiu Maxim, reformulates this conjecture using the theory of mixed Hodge modules and perverse sheaves. Building on my earlier work on non-isolated singularities, we reinterpret the vanishing cycles complex φ_f[−1] ℚ_ℂ³[3] as a central object and reduce Lê’s Conjecture to a statement about the purity and semi-simplicity of its non-unipotent part as a mixed Hodge module.
+      My approach, in collaboration with Laurentiu Maxim, reformulates this conjecture using the theory of mixed Hodge modules and perverse sheaves. Building on my earlier work on non-isolated singularities, we reinterpret the vanishing cycles complex φ_f[−1] ℚ_ℂ³[3] as a central object and reduce Lê’s Conjecture to a statement about the purity and semi-simplicity of its non-unipotent part as a mixed Hodge module.
 
-     This framework provides a new perspective that connects deep topological properties of singularities to their analytic structure, with the potential to resolve a conjecture that has remained open for nearly 40 years.
-
-    button: 
+      This framework provides a new perspective that connects deep topological properties of singularities to their analytic structure, with the potential to resolve a conjecture that has remained open for nearly 40 years.
+    button:
       text: Download Proposal
       url: /static/uploads/hepler-research-summary.pdf
-
   - title: Northeastern University Mathematics Department Best TA Award
     date: '2018-04-01'
     awarder: Northeastern University Mathematics Department
