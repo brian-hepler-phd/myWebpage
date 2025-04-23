@@ -3,7 +3,7 @@ name: "Brian Hepler"
 role: "Mathematics Consultant · Data Scientist"
 bio: "I'm a research mathematician exploring quantum computing, machine learning, and geometric methods. I create tools and teaching materials to bridge pure math with applied computation."
 
-avatar: "avatar.jpg"  # Put this image in static/uploads or assets/media
+#avatar: "avatar.jpg"  # Put this image in static/uploads or assets/media
 email: "hepler.brian@gmail.com"
 links:
   - icon: github

@@ -16,15 +16,15 @@ sections:
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: Download Resume
+        url: /static/uploads/Brian_Hepler_Resume_DS.pdf
     design:
       css_class: dark
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: /assets/media/endless-constellation.svg
           filters:
             brightness: 1.0
           size: cover
@@ -35,11 +35,15 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I’m a research mathematician and educator with 13+ years of experience working at the intersection of abstract theory and practical computation. My expertise lies in **relational structures, category theory, and topological methods**, and I specialize in translating these concepts into **efficient data models, algorithms**, and **mathematical infrastructure for machine learning and quantum computing**.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        I’ve published 5 peer-reviewed research articles and presented at over 20 international conferences. I’m actively building on my mathematical background to develop tools and frameworks that bridge theory and practice, with applications in machine learning, quantum computing, and data science.
+
+        I’ve also taught university-level mathematics for more than a decade, most recently designing and delivering a course on ["Lie Groups with Applications"](https://quantumformalism.academy/lie-groups-with-applications) through Quantum Formalism Academy.
+
+        From 2023–2024, I was a postdoctoral researcher in the algebraic analysis group at **IMJ-PRG (Sorbonne Université)**, working with François Loeser on the **FSMP-funded** project *Condensed Mathematics, Ind-Sheaves, and Irregular Singularities*. Before that, I held research appointments at **UW–Madison**, including a Van Vleck Visiting Assistant Professorship and a later honorary fellowship, collaborating with Laurentiu Maxim in **geometry and topology**.
+
+        I earned my Ph.D. from **Northeastern University** in 2019 under David B. Massey, with a dissertation on some invariants of complex analytic singularities titled *Hypersurface Normalizations and Numerical Invariants*. You can learn more on my [Research](/research) page.
     design:
       columns: '1'
   - block: collection
