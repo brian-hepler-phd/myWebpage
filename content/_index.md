@@ -106,13 +106,13 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
-  - block: cta-card
+    - block: cta-card
     content:
-     title: Explore my latest projects
+      title: Explore my latest projects
       text: Take a look at my notebooks and research on GitHub.
       button:
-      text: View GitHub
-      url: https://github.com/brian-hepler-phd
+        text: View GitHub
+        url: https://github.com/brian-hepler-phd
     design:
       card:
         css_class: "bg-primary-700"
