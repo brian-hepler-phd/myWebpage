@@ -1,35 +1,71 @@
 ---
-title: "Teaching"
-summary: "Courses, materials, and evaluations"
-type: landing
+title: "Teaching Experience"
+summary: "Courses taught, with syllabi and evaluations"
+type: page
 ---
 
 I have over a decade of experience teaching university-level mathematics courses across a broad spectrum — from introductory calculus to graduate-level topology.
 
 My approach centers on clarity, structure, and creating an environment where students feel both supported and challenged. I care deeply about making mathematics accessible and meaningful to all audiences, and I’ve consistently earned high student evaluations reflecting this commitment.
 
+## Courses Taught
+
+### 📘 Quantum Formalism Academy (2024–2025)
+
+- **Crash Course: Group Theory, Topology, and Manifolds**  
+  Topics: group actions, smooth manifolds, matrix Lie groups  
+  📄 [Course Page](https://quantumformalism.academy/crash-course-on-groups-topology-manifolds)
+
+- **Lie Groups with Applications**  
+  Topics: matrix groups, Lie algebras, quantum simulation, geometric deep learning  
+  📄 [Course Page](https://quantumformalism.academy/lie-groups-with-applications)
+
+- **Topological Data Analysis with Applications**  
+  Topics: persistent homology, simplicial complexes, ML integration  
+  📄 [Course Page](https://quantumformalism.academy/topological-data-analysis-with-applications)
+
+### 📘 University of Wisconsin–Madison (2019-2023)
+
+- **Math 552 — Elementary Geometry and Algebraic Topology**  
+  Topics: fundamental groups, covering spaces, simplicial complexes, simplicial homology  
+  💬 [Evaluations (Spring 2022)](/static/uploads/survey_results_aggregate_20220711_1745.pdf)
+
+- **Math 221 — Calculus I**  
+  📄 [Syllabus](/static/uploads/221-hepler-f20.pdf)  
+  💬 [Evaluations (Fall 2020)](/static/uploads/survey_results_aggregate_20210630_1337.pdf)  
+  💬 [Evaluations (Fall 2021)](/static/uploads/survey_results_aggregate_20220711_1744.pdf)
+
+- **Math 340 — Elementary Linear Algebra**  
+  📄 [Syllabus](/static/uploads/340-hepler_spring2020.pdf)  
+  💬 [Evaluations (Spring 2020)](/static/uploads/survey_results_aggregate_20200515_0758.pdf)
+
+- **Math 551 — Topology I**  
+  📄 [Syllabus](/static/uploads/551_hepler_spring20.docx)  
+  💬 [Evaluations (Spring 2020)](/static/uploads/survey_results_aggregate_20200525_1115.pdf)  
+  💬 [Evaluations (Spring 2021)](/static/uploads/math551_spring2021_courseevals.pdf)
+
+- **Math 521 — Analysis I**  
+  📄 [Syllabus](/static/uploads/521_hepler_fall19.pdf)  
+  💬 [Evaluations (Fall 2019)](/static/uploads/survey_results_aggregate_20200525_1119.pdf)  
+  💬 [Evaluations (Spring 2021)](/static/uploads/math521_spring2021_courseevaluations.pdf)
+
+### 📘 Northeastern University (2014-2019)
+
+- **Math 1251 — Calculus and Differential Equations for Biology I**  
+  📄 [Syllabus](/static/uploads/1251syllabus.pdf)  
+  💬 [Evaluations (Spring 2016)](/static/uploads/studentevalspring2016math1251.pdf)
+
+- **Math 1231 — Calculus I for Business and Economics**  
+  📄 [Syllabus](/static/uploads/1231syllabus.pdf)  
+  💬 [Evaluations (Fall 2014)](/static/uploads/studentevalfall2014math1231.pdf)  
+  💬 [Evaluations (Summer 2017)](/static/uploads/summer2017math1231.pdf)
+
+- **Math 1213 — Interactive Mathematics**  
+  📄 [Syllabus](/static/uploads/1213syllabus.pdf)  
+  💬 [Evaluations (Fall 2015)](/static/uploads/studentevalfall2015math1213.pdf)  
+  💬 [Evaluations (Fall 2016)](/static/uploads/studentevalfall2016math1213.pdf)
+
+- **Math 1342 — Calculus II for Science and Engineering**  
+  📄 [Syllabus](/static/uploads/1342-syllabus-spring-2018-hepler.pdf)  
+  💬 [Evaluations (Spring 2018)](/static/uploads/math1342spring18evals.pdf)
 ---
-
-### Selected Courses
-
-- **Crash Course on Group Theory, Topology, and Manifolds** — Quantum Formalism, 2025  
-  [View course page](https://quantumformalism.academy/crash-course-on-groups-topology-manifolds)
-
-- **Lie Groups with Applications** — Quantum Formalism, 2025  
-  [View course page](https://quantumformalism.academy/lie-groups-with-applications)
-
-- **Topological Data Analysis with Applications** — Quantum Formalism, 2025  
-  [View course page](https://quantumformalism.academy/topological-data-analysis-with-applications)
-
----
-
-### Student Feedback
-
-> “Bri is a great teacher, incredibly intelligent, almost always overly passionate about what he’s teaching (like he literally loves math which is terrifying)... Best math teacher I’ve ever had, just hoping he teaches Calc 2.”  
-> — *Math 1251, Spring 2016*
-
-> “Big daddy Bri is the man! If we were lost at sea and our rations were running low, there is not a single other steady hand I would want on the wheel than Brian’s. If we were stuck in the trenches of world war one, fighting off the enemy and rats, the only commander I would trust is Bri Guy. I think it is for these reasons that Brian was so effective at guiding us all through the troubled waters of spring semester 2020. Brian is like the cool professor in the disaster movies who knows whats up, but no one listens to him because he always has chalk on on his pants. I can’t not recommend any other single professor more than I can recommend Brian Hepler!”  
-> — *Math 340, Spring 2020*
-
-> “Brian is hands down my favorite math prof so far. He genuinely wants all of us to succeed and cares A LOT about making math accessible. If you ask questions and show up, he will go the extra mile for you. Awesome dude.”  
-> — *Math 552, Spring 2022*
