@@ -153,7 +153,7 @@ awards:
 
       This framework provides a new perspective that connects deep topological properties of singularities to their analytic structure, with the potential to resolve a conjecture that has remained open for nearly 40 years.
       
-      📄 [Download Proposal](/static/uploads/hepler-research-summary.pdf)
+      📄 [Download Proposal](/myWebpage/uploads/hepler-research-summary.pdf)
       
   - title: Northeastern University Mathematics Department Best TA Award
     date: '2018-04-01'
