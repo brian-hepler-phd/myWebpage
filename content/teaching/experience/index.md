@@ -4,6 +4,7 @@ summary: "Courses taught, with syllabi and evaluations"
 type: page
 
 I’ve taught a wide range of university-level mathematics courses, from introductory calculus to graduate-level topics in topology and Lie theory. Below is a representative list of courses I’ve taught, with links to syllabi and selected student evaluations where available.
+---
 
 ## Courses Taught
 
