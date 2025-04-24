@@ -1,5 +1,5 @@
 ---
-title: 'Projects'
+title: 'Portfolio'
 date: 2025-04-22
 type: landing
 
