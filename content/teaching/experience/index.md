@@ -2,11 +2,8 @@
 title: "Teaching Experience"
 summary: "Courses taught, with syllabi and evaluations"
 type: page
----
 
 I’ve taught a wide range of university-level mathematics courses, from introductory calculus to graduate-level topics in topology and Lie theory. Below is a representative list of courses I’ve taught, with links to syllabi and selected student evaluations where available.
-
----
 
 ## Courses Taught
 
@@ -23,8 +20,6 @@ I’ve taught a wide range of university-level mathematics courses, from introdu
 - **Topological Data Analysis with Applications**  
   Topics: persistent homology, simplicial complexes, ML integration  
   📄 [Course Page](https://quantumformalism.academy/topological-data-analysis-with-applications)
-
----
 
 ### 📘 University of Wisconsin–Madison (2019-2023)
 
@@ -51,8 +46,6 @@ I’ve taught a wide range of university-level mathematics courses, from introdu
   💬 [Evaluations (Fall 2019)](/static/uploads/survey_results_aggregate_20200525_1119.pdf)  
   💬 [Evaluations (Spring 2021)](/static/uploads/math521_spring2021_courseevaluations.pdf)
 
----
-
 ### 📘 Northeastern University (2014-2019)
 
 - **Math 1251 — Calculus and Differential Equations for Biology I**  
@@ -72,3 +65,4 @@ I’ve taught a wide range of university-level mathematics courses, from introdu
 - **Math 1342 — Calculus II for Science and Engineering**  
   📄 [Syllabus](/static/uploads/1342-syllabus-spring-2018-hepler.pdf)  
   💬 [Evaluations (Spring 2018)](/static/uploads/math1342spring18evals.pdf)
+---
