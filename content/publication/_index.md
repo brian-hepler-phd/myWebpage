@@ -17,10 +17,10 @@ sections:
 
   - block: collection
     content:
-      title: Journal Articles
+      title: Publications
       filters:
         folders:
-          - journal-article
+          - publication
         exclude_featured: false
     design:
       view: citation
