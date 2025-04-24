@@ -43,7 +43,7 @@ sections:
 
         From 2023–2024, I was a postdoctoral researcher in the algebraic analysis group at **IMJ-PRG (Sorbonne Université)**, working with François Loeser on the **FSMP-funded** project *Condensed Mathematics, Ind-Sheaves, and Irregular Singularities*. Before that, I held research appointments at **UW–Madison**, including a Van Vleck Visiting Assistant Professorship and a later honorary fellowship, collaborating with Laurentiu Maxim in **geometry and topology**.
 
-        I earned my Ph.D. from **Northeastern University** in 2019 under David B. Massey, with a dissertation on some invariants of complex analytic singularities titled *Hypersurface Normalizations and Numerical Invariants*. You can learn more on my [Experience](/experience/) page.
+        I earned my Ph.D. from **Northeastern University** in 2019 under David B. Massey, with a dissertation on some invariants of complex analytic singularities titled *Hypersurface Normalizations and Numerical Invariants*. You can learn more on my [Experience](/content/experience.md) page.
     design:
       columns: '1'
 ---
