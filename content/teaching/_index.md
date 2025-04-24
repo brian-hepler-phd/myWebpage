@@ -31,41 +31,41 @@ My approach centers on clarity, structure, and creating an environment where stu
   💬 [Evaluations (Spring 2022)](/myWebpage/uploads/survey_results_aggregate_20220711_1745.pdf)
 
 - **Math 221 — Calculus I**  
-  📄 [Syllabus](/static/uploads/221-hepler-f20.pdf)  
-  💬 [Evaluations (Fall 2020)](/static/uploads/survey_results_aggregate_20210630_1337.pdf)  
-  💬 [Evaluations (Fall 2021)](/static/uploads/survey_results_aggregate_20220711_1744.pdf)
+  📄 [Syllabus](/myWebpage/uploads/221-hepler-f20.pdf)  
+  💬 [Evaluations (Fall 2020)](/myWebpage/uploads/survey_results_aggregate_20210630_1337.pdf)  
+  💬 [Evaluations (Fall 2021)](/myWebpage/uploads/survey_results_aggregate_20220711_1744.pdf)
 
 - **Math 340 — Elementary Linear Algebra**  
-  📄 [Syllabus](/static/uploads/340-hepler_spring2020.pdf)  
-  💬 [Evaluations (Spring 2020)](/static/uploads/survey_results_aggregate_20200515_0758.pdf)
+  📄 [Syllabus](/myWebpage/uploads/340-hepler_spring2020.pdf)  
+  💬 [Evaluations (Spring 2020)](/myWebpage/uploads/survey_results_aggregate_20200515_0758.pdf)
 
 - **Math 551 — Topology I**  
-  📄 [Syllabus](/static/uploads/551_hepler_spring20.docx)  
-  💬 [Evaluations (Spring 2020)](/static/uploads/survey_results_aggregate_20200525_1115.pdf)  
-  💬 [Evaluations (Spring 2021)](/static/uploads/math551_spring2021_courseevals.pdf)
+  📄 [Syllabus](/myWebpage/uploads/551_hepler_spring20.docx)  
+  💬 [Evaluations (Spring 2020)](/myWebpage/uploads/survey_results_aggregate_20200525_1115.pdf)  
+  💬 [Evaluations (Spring 2021)](/myWebpage/uploads/math551_spring2021_courseevals.pdf)
 
 - **Math 521 — Analysis I**  
-  📄 [Syllabus](/static/uploads/521_hepler_fall19.pdf)  
-  💬 [Evaluations (Fall 2019)](/static/uploads/survey_results_aggregate_20200525_1119.pdf)  
-  💬 [Evaluations (Spring 2021)](/static/uploads/math521_spring2021_courseevaluations.pdf)
+  📄 [Syllabus](/myWebpage/uploads/521_hepler_fall19.pdf)  
+  💬 [Evaluations (Fall 2019)](/myWebpage/uploads/survey_results_aggregate_20200525_1119.pdf)  
+  💬 [Evaluations (Spring 2021)](/myWebpage/uploads/math521_spring2021_courseevaluations.pdf)
 
 ### 📘 Northeastern University (2014-2019)
 
 - **Math 1251 — Calculus and Differential Equations for Biology I**  
-  📄 [Syllabus](/static/uploads/1251syllabus.pdf)  
-  💬 [Evaluations (Spring 2016)](/static/uploads/studentevalspring2016math1251.pdf)
+  📄 [Syllabus](/myWebpage/uploads/1251syllabus.pdf)  
+  💬 [Evaluations (Spring 2016)](/myWebpage/uploads/studentevalspring2016math1251.pdf)
 
 - **Math 1231 — Calculus I for Business and Economics**  
-  📄 [Syllabus](/static/uploads/1231syllabus.pdf)  
-  💬 [Evaluations (Fall 2014)](/static/uploads/studentevalfall2014math1231.pdf)  
-  💬 [Evaluations (Summer 2017)](/static/uploads/summer2017math1231.pdf)
+  📄 [Syllabus](/myWebpage/uploads/1231syllabus.pdf)  
+  💬 [Evaluations (Fall 2014)](/myWebpage/uploads/studentevalfall2014math1231.pdf)  
+  💬 [Evaluations (Summer 2017)](/myWebpage/uploads/summer2017math1231.pdf)
 
 - **Math 1213 — Interactive Mathematics**  
-  📄 [Syllabus](/static/uploads/1213syllabus.pdf)  
-  💬 [Evaluations (Fall 2015)](/static/uploads/studentevalfall2015math1213.pdf)  
-  💬 [Evaluations (Fall 2016)](/static/uploads/studentevalfall2016math1213.pdf)
+  📄 [Syllabus](/myWebpage/uploads/1213syllabus.pdf)  
+  💬 [Evaluations (Fall 2015)](/myWebpage/uploads/studentevalfall2015math1213.pdf)  
+  💬 [Evaluations (Fall 2016)](/myWebpage/uploads/studentevalfall2016math1213.pdf)
 
 - **Math 1342 — Calculus II for Science and Engineering**  
-  📄 [Syllabus](/static/uploads/1342-syllabus-spring-2018-hepler.pdf)  
-  💬 [Evaluations (Spring 2018)](/static/uploads/math1342spring18evals.pdf)
+  📄 [Syllabus](/myWebpage/uploads/1342-syllabus-spring-2018-hepler.pdf)  
+  💬 [Evaluations (Spring 2018)](/myWebpage/uploads/math1342spring18evals.pdf)
 ---
