@@ -11,8 +11,8 @@ design:
 sections:
   - block: collection
     content:
-      title: Selected Projects
-      text: I enjoy making things. Here are a selection of projects that I have worked on over the years.
+      title: Project Portfolio
+      text: I enjoy making things, talking about math, and finding new ways to communicate research. Check out some of my attempts so far!
       filters:
         folders:
           - project
