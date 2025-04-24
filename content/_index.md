@@ -17,7 +17,7 @@ sections:
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download Resume
-        url: /uploads/Brian_Hepler_Resume_DS.pdf
+        url: uploads/Brian_Hepler_Resume_DS.pdf
     design:
       css_class: dark
       background:
