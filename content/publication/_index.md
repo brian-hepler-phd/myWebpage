@@ -17,7 +17,7 @@ sections:
 
   - block: collection
     content:
-      title: All Publications
+      title: Journal Articles
       filters:
         folders:
           - publication
