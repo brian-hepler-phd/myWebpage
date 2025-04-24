@@ -20,7 +20,7 @@ sections:
       title: Journal Articles
       filters:
         folders:
-          - publication/journal-article
+          - journal-article
         exclude_featured: false
     design:
       view: citation
