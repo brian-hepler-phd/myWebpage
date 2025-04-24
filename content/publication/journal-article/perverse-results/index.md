@@ -14,6 +14,4 @@ abstract: >
   Applications to stable unfoldings of finite maps with isolated instabilities are also discussed.
 featured: false
 projects: []
-image:
-  preview_only: true
 ---
