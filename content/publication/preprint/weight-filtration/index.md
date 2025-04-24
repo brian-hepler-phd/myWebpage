@@ -3,7 +3,7 @@ title: "The Weight Filtration on the Constant Sheaf on a Parameterized Space"
 authors:
   - Brian Hepler
 date: "2019-07-12"
-publication_types: ["preprint"]
+publication_types: ["article-preprint"]
 publication: "arXiv:1811.04328 [math.AG]"
 doi: ""
 url_pdf: "https://arxiv.org/pdf/1811.04328.pdf"
