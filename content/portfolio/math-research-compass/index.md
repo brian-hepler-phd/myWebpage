@@ -2,7 +2,7 @@
 title: Math Research Compass
 date: 2025-04-10
 type: portfolio
-external_link: https://github.com/brian-hepler-phd/MathResearchCompass
+# external_link: https://github.com/brian-hepler-phd/MathResearchCompass
 tags:
   - Topic Modeling
   - arXiv
