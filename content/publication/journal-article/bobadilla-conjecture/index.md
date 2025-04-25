@@ -7,7 +7,7 @@ date: "2016-12-16"
 publication_types: ["article-journal"]
 publication: "*Topology and its Applications*, Vol. 217, Pages 59–69"
 doi: "10.1016/j.topol.2016.12.011"
-url_pdf: /uploads/moderate-growth-hepler.pdf
+url_pdf: /uploads/bobadilla-conjecture-hepler.pdf
 abstract: >
   We prove two special cases of a conjecture of J. Fernández de Bobadilla for hypersurfaces with 1-dimensional critical loci.
 
