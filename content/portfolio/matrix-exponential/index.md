@@ -1,6 +1,7 @@
 ---
 title: Matrix Exponential Visualizer
 date: 2025-02-01
+type: portfolio
 external_link: https://github.com/brian-hepler-phd/MatrixExponential
 tags:
   - Linear Algebra
@@ -26,5 +27,5 @@ Features:
 - Dynamic vector field updates and trajectory overlays
 - Modular code structure for reuse in teaching notebooks
 
- GitHub:  
- [MatrixExponential](https://github.com/brian-hepler-phd/MatrixExponential)
+GitHub:  
+[MatrixExponential](https://github.com/brian-hepler-phd/MatrixExponential)

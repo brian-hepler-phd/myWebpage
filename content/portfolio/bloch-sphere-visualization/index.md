@@ -1,6 +1,7 @@
 ---
 title: Bloch Sphere Visualization
 date: 2025-03-15
+type: portfolio
 external_link: https://github.com/brian-hepler-phd/bloch-sphere-visualization
 tags:
   - Quantum Computing
@@ -27,5 +28,5 @@ Features:
 - Clear linkage between algebraic and geometric representations
 - Educational framing for classroom demos or independent study
 
- GitHub:  
- [bloch-sphere-visualization](https://github.com/brian-hepler-phd/bloch-sphere-visualization)
+GitHub:  
+[bloch-sphere-visualization](https://github.com/brian-hepler-phd/bloch-sphere-visualization)
