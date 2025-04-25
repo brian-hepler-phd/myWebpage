@@ -9,6 +9,8 @@ tags:
   - Visualization
   - Teaching
   - Interactive
+image:
+  preview_only: true
 ---
 
 An interactive 3D notebook for visualizing the Lie bracket structure of 𝖘𝖚(2) using a geometric cross-product analogy. Developed as a demonstration for Lecture 3 (*Matrix Lie Algebras*) in the *Lie Groups with Applications* course at Quantum Formalism.

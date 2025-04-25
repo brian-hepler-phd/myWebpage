@@ -9,6 +9,8 @@ tags:
   - Ising Model
   - Lie Groups
   - Teaching
+image:
+  preview_only: true
 ---
 
 A Python notebook exploring Hamiltonian simulation of the Transverse Field Ising Model (TFIM) using Trotter–Suzuki approximations. This project provides a self-contained, pedagogical example of how to approximate time evolution $e^{-iHt}$ for non-commuting Hamiltonians.
