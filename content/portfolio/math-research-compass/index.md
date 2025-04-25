@@ -1,6 +1,6 @@
 ---
 title: Math Research Compass
-date: 2025-04-10
+date: 2025-04-25
 type: portfolio
 # external_link: https://github.com/brian-hepler-phd/MathResearchCompass
 tags:
