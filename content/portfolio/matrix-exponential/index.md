@@ -1,8 +1,8 @@
 ---
 title: Matrix Exponential Visualizer
 date: 2025-02-01
-type: page
-# external_link: https://github.com/brian-hepler-phd/MatrixExponential
+type: portfolio
+ external_link: https://github.com/brian-hepler-phd/MatrixExponential
 tags:
   - Linear Algebra
   - Visualization
