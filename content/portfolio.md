@@ -16,7 +16,7 @@ sections:
       filters:
         folders:
           - portfolio
-        page_type: page
+        page_type: portfolio
         order: desc
     design:
       view: article
