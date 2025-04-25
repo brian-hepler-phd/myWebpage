@@ -1,6 +1,6 @@
 ---
 title: Matrix Exponential Visualizer
-date: 2025-02-01
+date: 2025-04-20
 type: portfolio
 # external_link: https://github.com/brian-hepler-phd/MatrixExponential
 tags:

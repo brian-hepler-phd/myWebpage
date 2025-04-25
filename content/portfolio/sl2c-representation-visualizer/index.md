@@ -1,6 +1,6 @@
 ---
 title: Visualizing Representations of 𝔰𝔩(2,ℂ)
-date: 2025-04-22
+date: 2025-02-22
 type: portfolio
 external_link: ''
 tags:
