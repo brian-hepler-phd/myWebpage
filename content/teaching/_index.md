@@ -28,7 +28,7 @@ My approach centers on clarity, structure, and creating an environment where stu
 
 - **Math 552 — Elementary Geometry and Algebraic Topology**  
   Topics: fundamental groups, covering spaces, simplicial complexes, simplicial homology  
-   [Evaluations (Spring 2022)](/myWebpage/uploads/survey_results_aggregate_20220711_1745.pdf)
+   [Evaluations (Spring 2022)](/uploads/survey_results_aggregate_20220711_1745.pdf)
 
 - **Math 221 — Calculus I**  
    [Syllabus](/myWebpage/uploads/221-hepler-f20.pdf)  
