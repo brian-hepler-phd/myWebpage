@@ -2,7 +2,7 @@
 title: KAK Decomposition for Quantum Circuits
 date: 2025-04-10
 type: porfolio
-external_link: https://github.com/brian-hepler-phd/kak-decomposition-qml
+# external_link: https://github.com/brian-hepler-phd/kak-decomposition-qml
 tags:
   - Quantum Computing
   - Lie Groups

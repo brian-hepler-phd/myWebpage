@@ -2,7 +2,7 @@
 title: Hamiltonian Simulation — TFIM and Trotterization
 date: 2025-04-15
 type: portfolio
-external_link: https://github.com/brian-hepler-phd/hamiltonian-simulation-tfim-trotter
+# external_link: https://github.com/brian-hepler-phd/hamiltonian-simulation-tfim-trotter
 tags:
   - Quantum Simulation
   - Trotterization
