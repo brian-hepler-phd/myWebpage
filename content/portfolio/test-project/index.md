@@ -27,5 +27,5 @@ Features:
 - Clear linkage between algebraic and geometric representations
 - Educational framing for classroom demos or independent study
 
- GitHub:  
- [bloch-sphere-visualization](https://github.com/brian-hepler-phd/bloch-sphere-visualization)
+GitHub:  
+[bloch-sphere-visualization](https://github.com/brian-hepler-phd/bloch-sphere-visualization)
