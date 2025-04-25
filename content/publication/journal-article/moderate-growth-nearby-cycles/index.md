@@ -7,7 +7,7 @@ date: "2025-01-01"
 publication_types: ["article-journal"]
 publication: "*Publications of the Research Institute for Mathematical Sciences*, Vol. 61, No. 1 (To appear)"
 doi: ""
-url_pdf: "https://arxiv.org/abs/2301.12345"
+url_pdf: /uploads/moderate-growth-hepler.pdf
 abstract: >
   For any holomorphic function \( f \) on a complex manifold \( X \), we define and study moderate growth and rapid decay objects associated to an enhanced ind-sheaf on \( X \). These are sheaves on the real oriented blow-up space of \( X \) along \( f \). We show that, in the context of the irregular Riemann–Hilbert correspondence of D'Agnolo–Kashiwara, these objects recover the classical de Rham complexes with moderate growth and rapid decay associated to holonomic \( \mathcal{D} \)-modules.
 
