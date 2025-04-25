@@ -36,11 +36,11 @@ My approach centers on clarity, structure, and creating an environment where stu
    [Evaluations (Fall 2021)](/uploads/survey_results_aggregate_20220711_1744.pdf)
 
 - **Math 340 — Elementary Linear Algebra**  
-   [Syllabus](/uploads/340-hepler_spring2020.pdf)  
+   [Syllabus](/uploads/340_hepler_spring2020.pdf)  
    [Evaluations (Spring 2020)](/uploads/survey_results_aggregate_20200515_0758.pdf)
 
 - **Math 551 — Topology I**  
-   [Syllabus](/uploads/551_hepler_spring20.docx)  
+   [Syllabus](/uploads/551_hepler_spring20.pdf)  
    [Evaluations (Spring 2020)](/uploads/survey_results_aggregate_20200525_1115.pdf)  
    [Evaluations (Spring 2021)](/uploads/math551_spring2021_courseevals.pdf)
 
