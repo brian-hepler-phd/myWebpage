@@ -16,7 +16,7 @@ An interactive visualization tool for exploring the Bloch sphere representation 
 Developed as a supplement for the *Lie Groups with Applications* course with Quantum Formalism, this project helps students and researchers:
 
 - Understand how elements of SU(2) act as rotations of qubit states
-- Explore parameterized gates (e.g. \( R_x(\theta), R_y(\theta), R_z(\theta) \))
+- Explore parameterized gates (e.g.  $R_x(\theta), R_y(\theta), R_z(\theta)$)
 - Visualize the action of matrix exponentials in real-time
 - Develop geometric intuition for quantum gate design
 
