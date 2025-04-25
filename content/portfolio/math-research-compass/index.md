@@ -34,5 +34,5 @@ Planned features include:
 - Implement collaboration network analysis and visualization
 - Incorporate citation data (if accessible) for impact analysis
 
-📂 GitHub:  
-👉 [MathResearchCompass](https://github.com/brian-hepler-phd/MathResearchCompass)
+ GitHub:  
+ [MathResearchCompass](https://github.com/brian-hepler-phd/MathResearchCompass)

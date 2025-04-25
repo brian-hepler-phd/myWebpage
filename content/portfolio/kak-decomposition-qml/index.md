@@ -28,5 +28,5 @@ Use cases:
 - Benchmarking quantum compilation algorithms
 - Educational demo for quantum circuits and Lie algebras
 
-📂 GitHub:  
-👉 [kak-decomposition-qml](https://github.com/brian-hepler-phd/kak-decomposition-qml)
+ GitHub:  
+ [kak-decomposition-qml](https://github.com/brian-hepler-phd/kak-decomposition-qml)

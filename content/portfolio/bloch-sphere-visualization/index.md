@@ -9,7 +9,7 @@ tags:
   - Teaching
 ---
 
-An interactive visualization tool for exploring the Bloch sphere representation of qubit states and unitary operations. Built with `streamlit`, this app lets users intuitively rotate states on the sphere using SU(2) matrices and observe their geometric action in real time.
+An interactive visualization tool for exploring the Bloch sphere representation of qubit states and unitary operations. Built with `ipywidgets`, this app lets users intuitively rotate states on the sphere using SU(2) matrices and observe their geometric action in real time.
 
 <!--more-->
 
@@ -22,10 +22,10 @@ Developed as a supplement for the *Lie Groups with Applications* course with Qua
 
 Features:
 
-- Real-time interactive Bloch sphere using Plotly
+- Real-time interactive Bloch sphere using ipywidgets and matplotlib
 - User-controlled sliders for axis and angle of rotation
 - Clear linkage between algebraic and geometric representations
 - Educational framing for classroom demos or independent study
 
-📂 GitHub:  
-👉 [bloch-sphere-visualization](https://github.com/brian-hepler-phd/bloch-sphere-visualization)
+ GitHub:  
+ [bloch-sphere-visualization](https://github.com/brian-hepler-phd/bloch-sphere-visualization)

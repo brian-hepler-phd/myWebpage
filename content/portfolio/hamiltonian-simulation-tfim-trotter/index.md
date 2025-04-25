@@ -23,5 +23,5 @@ Topics covered include:
 
 The notebook is designed as supplemental material for the *Lie Groups with Applications* course with Quantum Formalism.
 
-📂 GitHub:  
-👉 [hamiltonian-simulation-tfim-trotter](https://github.com/brian-hepler-phd/hamiltonian-simulation-tfim-trotter)
+ GitHub:  
+ [hamiltonian-simulation-tfim-trotter](https://github.com/brian-hepler-phd/hamiltonian-simulation-tfim-trotter)

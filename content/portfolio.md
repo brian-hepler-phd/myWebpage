@@ -12,7 +12,7 @@ sections:
   - block: collection
     content:
       title: Project Portfolio
-      text: I enjoy making things, talking about math, and finding new ways to communicate research. Check out some of my attempts so far!
+      text: ""
       filters:
         folders:
           - portfolio

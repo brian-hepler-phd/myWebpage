@@ -26,5 +26,5 @@ Features:
 - Dynamic vector field updates and trajectory overlays
 - Modular code structure for reuse in teaching notebooks
 
-📂 GitHub:  
-👉 [MatrixExponential](https://github.com/brian-hepler-phd/MatrixExponential)
+ GitHub:  
+ [MatrixExponential](https://github.com/brian-hepler-phd/MatrixExponential)
