@@ -16,6 +16,7 @@ sections:
       filters:
         folders:
           - portfolio
+        order: desc
     design:
-      view: article-grid
+      view: article
 ---
