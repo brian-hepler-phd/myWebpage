@@ -17,7 +17,7 @@ sections:
         folders:
           - portfolio
         page_type: portfolio
-        order: desc
+        order: asc
     design:
       view: article
 ---
