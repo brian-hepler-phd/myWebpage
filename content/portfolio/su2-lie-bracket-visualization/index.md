@@ -1,6 +1,7 @@
 ---
 title: Visualizing the Lie Bracket in 𝖘𝖚(2)
 date: 2025-04-22
+type: portfolio
 external_link: ''
 tags:
   - Lie Algebras
