@@ -8,8 +8,6 @@ tags:
   - Visualization
   - Lie Groups
   - Teaching
-image:
-  preview_only
 ---
 
 An interactive visualization tool for exploring the Bloch sphere representation of qubit states and unitary operations. Built with `ipywidgets`, this app lets users intuitively rotate states on the sphere using SU(2) matrices and observe their geometric action in real time.

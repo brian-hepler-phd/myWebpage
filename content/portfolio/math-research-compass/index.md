@@ -10,8 +10,6 @@ tags:
   - BERTopic
   - Research Tools
   - In Progress
-image:
-  preview_only: true
 ---
 
 An in-progress dashboard for visualizing mathematical research trends across the arXiv. This project uses topic modeling, NLP, and arXiv metadata to map collaborations and thematic structure within the mathematical sciences.

@@ -9,8 +9,6 @@ tags:
   - SU(4)
   - Circuit Decomposition
   - Teaching
-image:
-  preview_only: true
 ---
 
 A Python notebook exploring the KAK decomposition of SU(4) as a tool for visualizing and optimizing two-qubit quantum gates. This project illustrates how Lie group structure can inform circuit simplification and variational ansatz design in quantum machine learning.

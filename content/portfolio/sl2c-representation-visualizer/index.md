@@ -8,8 +8,6 @@ tags:
   - Representation Theory
   - Symbolic Computation
   - Teaching
-image:
-  preview_only: true
 ---
 
 An interactive notebook that illustrates representations of the Lie algebra $\mathfrak{sl}(2, \mathbb{C})$ by implementing the action of its generators on homogeneous polynomials. Designed for Lecture 4 (*Representation Theory*) of the *Lie Groups with Applications* course at Quantum Formalism.
