@@ -38,4 +38,4 @@ Planned features include:
  GitHub:  
  [MathResearchCompass](https://github.com/brian-hepler-phd/MathResearchCompass)
  Website:
- [MathResearcCompass](https://brian-hepler-phd.shinyapps.io/mathresearchcompass/)
+ [MathResearchCompass](https://brian-hepler-phd.shinyapps.io/mathresearchcompass/)
