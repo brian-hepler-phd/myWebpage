@@ -1,6 +1,6 @@
 ---
 title: Math Research Compass
-date: 2025-04-25
+date: 2025-05-14
 type: portfolio
 # external_link: https://github.com/brian-hepler-phd/MathResearchCompass
 tags:
@@ -37,3 +37,5 @@ Planned features include:
 
  GitHub:  
  [MathResearchCompass](https://github.com/brian-hepler-phd/MathResearchCompass)
+ Website:
+ [MathResearcCompass](https://brian-hepler-phd.shinyapps.io/mathresearchcompass/)
