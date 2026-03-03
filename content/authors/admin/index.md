@@ -13,12 +13,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Mathematics Consultant
+role: Mathematics Consultant | GenAI Knowledge Expert in Mathematics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Quantum Formalism
-    url: https://www.quantumformalism.com
+  - name: Tundra Technical Solutions, on Assignment at Meta
+    url: https://www.tundratechnical.ca/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
