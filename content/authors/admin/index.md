@@ -73,6 +73,17 @@ education:
       
       Graduated cum laude with Distinction in Mathematics.
 work:
+  - position: GenAI Knowledge Expert - Mathematics, on Assignment at Meta
+    company_name: Tundra Technical Solutions
+    company_url: https://www.tundratechnical.ca
+    date_start: 2025-11-06
+    date_end: ""
+    summary: |
+      - Guided research teams to close knowledge gaps and improve AI model performance in mathematics
+      - Created and maintained precise annotation standards tailored to my math specialty
+      - Designed challenging, domain-relevant math tasks across multiple specializations, and wrote accurate and well-structured solutions to math tasks
+      - Evaluated math tasks and solutions and provided clear, written feedback.
+
   - position: Mathematics Consultant
     company_name: Quantum Formalism
     company_url: https://quantumformalism.academy
